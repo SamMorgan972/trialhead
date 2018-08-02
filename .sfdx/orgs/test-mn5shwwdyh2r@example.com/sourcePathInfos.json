@@ -144,10 +144,10 @@
             "sourcePath": "/Users/sam/SFDX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 367,
-            "modifiedTime": 1533205312433,
-            "changeTime": 1533205312433,
-            "contentHash": "2331d6d0b39796ad37d829e0befd6583e7635469"
+            "size": 366,
+            "modifiedTime": 1533205701763,
+            "changeTime": 1533205701763,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
         }
     ],
     [
